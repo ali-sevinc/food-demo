@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply min-h-screen  bg-gradient-to-tr from-stone-900  from-50% via-stone-800 to-stone-700 font-playpen;
+}
